@@ -9,8 +9,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 // Simula un usuario administrador con credenciales
-const ADMIN_USER = 'admin';
-const ADMIN_PASS = 'password123';
+const ADMIN_USER = 'administrador';
+const ADMIN_PASS = 'Robotito2025';
 
 // Leer la lista de códigos
 let codes = JSON.parse(fs.readFileSync('codes.json')).codes;
