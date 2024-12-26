@@ -113,6 +113,7 @@ app.get('/admin/records', (req, res) => {
                         <button type="submit">Eliminar</button>
                     </form>
                 </td>
+                </form><br><a href="/admin/login">Modo Administrador</a>
             </tr>
         `;
     });
