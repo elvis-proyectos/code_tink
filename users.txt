@@ -1,0 +1,14 @@
+carlos, a@gmail.com, CODE345
+carlos, a@gmail.com, CODE012
+carlos, a@gmail.com, CODE789
+carlos, a@gmail.com, CODE456
+carlos, a@gmail.com, CODE123
+carlos, a@gmail.com, CODE012
+santiago, f@g.cl, CODE789
+Arrendador, deyata4115@irnini.com, CODE456
+carlos, bunkerbunker.pz@gmail.com, CODE123
+carlos, a@gmail.com, codigo2
+Arrendador, deyata4115@irnini.com, codigo1
+santiago, pejomom523@chosenx.com, codigo4
+Arrendatario, deyata4115@irnini.com, codigo3
+a, s@gmail.com, c1
